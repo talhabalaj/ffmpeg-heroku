@@ -1,9 +1,8 @@
+
 # ffmpeg-heroku-libshine-only
+## [NOTE] MP3 conversion only!
 
-A Heroku buildpack for ffmpeg that always downloads the latest static build.
-Unlike other build packs, I never compile anything and remove this git.
-
-MP3 conversion only!
+A Heroku buildpack for ffmpeg that always downloads the latest static build (libshine only).
 
 ## Usage
 
